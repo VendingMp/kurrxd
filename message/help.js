@@ -227,10 +227,8 @@ LIST HARGA SEWA BOTZ
 ▢ PERBULAN 15K
 ▢ PERMANEN 40K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/62895383201495
 
-YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -438,10 +436,10 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *DHA BOTZ*
-❏ API : @6282288265627
-❏ OWNER : *YUDHA PERDANA*
-❏ API : *@6282W87486762*
+❏ NAMA : *Zenx BOTZ*
+❏ API : @62895383201495
+❏ OWNER : *Riz*
+❏ API : *@62895383201495*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
